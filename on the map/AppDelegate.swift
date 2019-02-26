@@ -2,10 +2,9 @@
 //  AppDelegate.swift
 //  on the map
 //
-//  Created by Rawaa Alshafeai  on 06/05/1440 AH.
-//  Copyright © 1440 udacity. All rights reserved.
+//  Created by reem katmeh on 28/02/2019
+//  Copyright © 2019 reemkt. All rights reserved.
 //
-
 import UIKit
 
 @UIApplicationMain
